@@ -28,7 +28,8 @@ Here are some ideas to get you started: -->
 <br />
 <br />
 
-### 📊 GitHub Stats:
-![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-github-readme-stats.svg)
+
+![Stats](./profile/stats.svg)
+
+![WakaTime Stats](./profile/wakatime.svg)
