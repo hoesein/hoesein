@@ -29,4 +29,6 @@ Here are some ideas to get you started: -->
 <br />
 
 ### 📊 GitHub Stats:
-![Hein Soe's github stats](https://github-readme-stats.vercel.app/api?username=hoesein&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-github-readme-stats.svg)
